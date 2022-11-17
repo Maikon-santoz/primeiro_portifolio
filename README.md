@@ -1,8 +1,8 @@
 # primeiro_portifolio
 segue o link
 https://portifolio01.netlify.app/
-![image](https://user-images.githubusercontent.com/105895911/202332633-396190b7-84f3-4acf-afe9-abf91c9071fe.png)
-![image](https://user-images.githubusercontent.com/105895911/202332721-df13be3e-69bb-4c06-be01-be28892b69cd.png)
-![image](https://user-images.githubusercontent.com/105895911/202332767-e9cb7521-d06c-45a8-99d6-2d75d8716554.png)
-![image](https://user-images.githubusercontent.com/105895911/202332799-a7d3ec0c-b75f-4cab-837b-d97954da4cd0.png)
-![image](https://user-images.githubusercontent.com/105895911/202332887-aeb56ba7-fc5b-4375-a602-9edbb7505064.png)
+![image](https://user-images.githubusercontent.com/105895911/202333049-e9b7b4ea-b6ce-4dd0-a23d-90c31146e5a0.png)
+![image](https://user-images.githubusercontent.com/105895911/202333085-c55f67b0-1c95-48b6-8133-b1c747387019.png)
+![image](https://user-images.githubusercontent.com/105895911/202333158-37249a41-9d03-4cd4-b62b-1559455468ce.png)
+![image](https://user-images.githubusercontent.com/105895911/202333221-0dc7fbab-9666-4a7d-a60d-e19c20dd420d.png)
+![image](https://user-images.githubusercontent.com/105895911/202333251-d1c58120-d05b-486a-9680-f3c432be229d.png)
